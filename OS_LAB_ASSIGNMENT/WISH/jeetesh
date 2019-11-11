@@ -1,0 +1,32 @@
+A MATCH PLUS filename is Filename is | jeetesh
+The value in all_path is /bin/ |TEMP | /bin/ls
+RESULT FINAL for concatenation in 0 
+| 
+> The result is 0 with all_path as /bin/
+> The value of args[1] is -l
+total 392
+-rw-r--r--  1 jiteshsah  staff    468  9 Nov 14:15 PTR.C
+-rwxr-xr-x  1 jiteshsah  staff  12604 10 Nov 16:05 a.out
+-rw-r--r--  1 jiteshsah  staff    289 10 Nov 16:05 access.c
+-rwxr-xr-x  1 jiteshsah  staff  12776  9 Nov 11:05 delete
+-rw-r--r--  1 jiteshsah  staff      9 10 Nov 14:14 dump
+-rw-r--r--  1 jiteshsah  staff    111  9 Nov 23:42 execvp_ls_l.c
+-rwxr-xr-x  1 jiteshsah  staff  17720 10 Nov 16:24 fifth
+-rw-r--r--  1 jiteshsah  staff   7587 10 Nov 16:24 fifth.c
+-rwxr-xr-x  1 jiteshsah  staff  12864  9 Nov 20:05 first_try
+-rw-r--r--  1 jiteshsah  staff    691  9 Nov 20:04 first_try.c
+-rw-r--r--  1 jiteshsah  staff    162  9 Nov 22:17 input_ptr.c
+-rw-------  1 jiteshsah  staff    434 10 Nov 16:25 j
+-rw-------  1 jiteshsah  staff    204 10 Nov 16:25 jeetesh
+drwxr-xr-x  3 jiteshsah  staff     96 10 Nov 10:27 out.dSYM
+-rw-r--r--  1 jiteshsah  staff    681  9 Nov 12:21 p.c
+-rwxr-xr-x  1 jiteshsah  staff  12776  9 Nov 14:26 ptr
+drwxr-xr-x  3 jiteshsah  staff     96  9 Nov 15:04 sec.dSYM
+-rwxr-xr-x  1 jiteshsah  staff  13304  9 Nov 23:59 second_execute
+-rwxr-xr-x  1 jiteshsah  staff  12816  9 Nov 20:08 second_execute_ls
+-rw-r--r--  1 jiteshsah  staff    340  9 Nov 21:47 strsep.c
+-rw-r--r--  1 jiteshsah  staff    271  9 Nov 21:44 strsep_1.c
+-rwxr-xr-x  1 jiteshsah  staff  13544 10 Nov 11:26 third
+-rw-r--r--  1 jiteshsah  staff   3787 10 Nov 11:30 working_fourth.c
+-rw-r--r--  1 jiteshsah  staff   1234  9 Nov 21:27 working_second.c
+-rw-r--r--  1 jiteshsah  staff   1786 10 Nov 00:00 working_third.c

@@ -1,0 +1,30 @@
+A MATCH PLUS filename is Filename is | j
+The value in all_path is /bin/ |TEMP | /bin/ls
+RESULT FINAL for concatenation in 0 
+| 
+> The result is 0 with all_path as /bin/
+> The value of args[1] is (null)
+PTR.C
+a.out
+access.c
+delete
+dump
+execvp_ls_l.c
+fifth
+fifth.c
+first_try
+first_try.c
+input_ptr.c
+j
+out.dSYM
+p.c
+ptr
+sec.dSYM
+second_execute
+second_execute_ls
+strsep.c
+strsep_1.c
+third
+working_fourth.c
+working_second.c
+working_third.c
